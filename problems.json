@@ -13,14 +13,55 @@
 },
  {
   "title": "海啸杯-重生",
-  "category": "PWN",
+  "category": "HXBPWN",
   "intro": "nc 47.107.51.210 12009 链接：https://pan.baidu.com/s/1UpjOGDCS7wbQjAD3wmziNg 提取码：vt4l ",
   "flag": "b068f10b26a6d5043e72fc736a8ff9fe"
 },
  {
   "title": "海啸杯-寻兵",
-  "category": "PWN",
+  "category": "HXBPWN",
   "intro": "nc 47.107.51.210 12007 链接：https://pan.baidu.com/s/1s-nLrSnx5AotJkXMT3Z_WQ 提取码：nj3v ",
   "flag": "4a33f4b58a73d9c36e097f4adbd886cc"
+},{
+  "title": "海啸杯-涤荡",
+  "category": "HXBPWN",
+  "intro": "nc 47.107.51.210 12006 链接：https://pan.baidu.com/s/1k5rb9USyGuWkGRPWehbp4g 提取码：pa2o",
+  "flag": "f4091a630d552c31471eb070fcafb32e"
+},
+ {
+  "title": "海啸杯-飞升",
+  "category": "HXBPWN",
+  "intro": "nc 47.107.51.210 12008 链接：https://pan.baidu.com/s/1bgVdVGbV24-k24e0lGrtlQ 提取码：cef5",
+  "flag": "ef08d9747e9b9efb29c31f72ec4b6348"
+},
+ {
+  "title": "stackover",
+  "category": "PWN",
+  "intro": "nc 47.107.51.210 12001 链接：https://pan.baidu.com/s/1WBeFAeSExzco61YOI0vujA 提取码：ut6v",
+  "flag": "723436207df065ba0124e2ba494af809"
+},
+ {
+  "title": "stackover-rop",
+  "category": "PWN",
+  "intro": "nc 47.107.51.210 12002 链接：https://pan.baidu.com/s/1wg2mNqE33EbctDcBdvGzWQ 提取码：wah0",
+  "flag": "cb486dcdb8bd24f4636ee698584b6786"
+},
+ {
+  "title": "stackover-rop-canary",
+  "category": "PWN",
+  "intro": "nc 47.107.51.210 12003 链接：https://pan.baidu.com/s/1PsJ_G8ILJ3HXfraizw4XGg 提取码：zde4",
+  "flag": "081c883cec54f59d94d83fdecd7ffa62"
+},
+ {
+  "title": "ret2csu",
+  "category": "PWN",
+  "intro": "nc 47.107.51.210 12011 链接：https://pan.baidu.com/s/1PsJ_G8ILJ3HXfraizw4XGg 提取码：zde4",
+  "flag": "6b64a602f612662f528bea37c9a3e552"
+},
+ {
+  "title": "栈迁移+csu",
+  "category": "PWN",
+  "intro": "nc 47.107.51.210 12004 链接：https://pan.baidu.com/s/1KODp47eRCHgV7_mHUBnwbA 提取码：6t20",
+  "flag": "f4f66a93df720a4cfcbabc7289eec0f9"
 }
 ]
