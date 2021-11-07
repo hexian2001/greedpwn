@@ -93,5 +93,11 @@
   "category": "2021东华杯CTF",
   "intro": "nc 47.107.51.210 12033 链接：https://pan.baidu.com/s/1BFP8UqDWq3X4ccz3w35WAw 提取码：4f7p",
   "flag": "4b3b5263a289d187aa90a3f0395fb61f"
+},
+ {
+  "title": "kotodama-love-god",
+  "category": "综合考核-HRP原创题",
+  "intro": "nc 47.107.51.210 12040 链接：https://pan.baidu.com/s/1Qb8-hvCU0FQQWJFECsmEzA 提取码：h3kc",
+  "flag": "7980c2bb65a36cd00f904a1b47ee8d26"
 }
 ]
